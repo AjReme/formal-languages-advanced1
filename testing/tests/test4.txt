@@ -1,0 +1,4 @@
+.vars
+hellothere=3
+.expression
+inc((((((hellothere))))))

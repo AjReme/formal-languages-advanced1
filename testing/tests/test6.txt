@@ -1,0 +1,4 @@
+.vars
+a=3, aa=2, aaa=1, a4a=0
+.expression
+div(inc(10),inc((inc(a4a))))+sum4(sum3(a,aa,aaa),a4a+aa,aaa,a)

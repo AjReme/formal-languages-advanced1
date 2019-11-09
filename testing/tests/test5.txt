@@ -1,0 +1,4 @@
+.vars
+notused=3
+.expression
+div(-10, +1)
